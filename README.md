@@ -1,5 +1,5 @@
 # System.out.println("Hi"); 💻
 #### JAVA - JAVASCRIPT 
-<p align="center">
-  <img src="https://lh4.googleusercontent.com/8wR06JLJviEpQwenq4_3Eh_ly14hXpplaVrizUAaUu-B_3u5pGbwpxHUYHUDmUWuBfj4EZ7qMfz1Q367KFOY=w648-h828" alt="gif" />
-</p>
+
+<img src="https://user-images.githubusercontent.com/82742269/178171883-5fab3c75-7f3c-45b9-b330-8b59c0e70b6b.gif">
+
