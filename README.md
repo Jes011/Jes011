@@ -1,5 +1,5 @@
-<h1>System.out.println("Hi");</h1>
-<h4>JAVA - JAVASCRIPT</h4>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82742269/178590518-7d01e6c0-633a-4647-814a-7a4a83e8c1d9.gif">
 
 <h2>Favorite Projects</h2>
 <p align="center">
