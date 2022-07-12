@@ -3,6 +3,16 @@
 
 <h2>Favorite Projects</h2>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82742269/178171883-5fab3c75-7f3c-45b9-b330-8b59c0e70b6b.gif">
+<ul>
+<li><h4>JAVA</h4>
+<ul>
+<li>Carmilia
+</ul>
+</li>
+<li><h4>JAVASCRIPT</h4>
+</li>
+
+
+</ul>
 </p>
 
